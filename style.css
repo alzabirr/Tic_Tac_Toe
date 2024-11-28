@@ -4,7 +4,7 @@
 }
 
 body{
-    background-color: #85A98F;
+    background-color: #387478;
     text-align: center;
    
 }
@@ -35,10 +35,11 @@ body{
     box-shadow: 0 0 1rem rgba(153, 239, 245, 0.3);
     font-size: 6vmin;
     font-weight:bold ;
-    color: #FA4032;
+    color: #A64253;
+    background-color: #e3be94;
 }
 
-#reset_btn{
+#reset_btn, #new-btn{
     padding: 1rem;
     font-size: 1.25rem;
     background-color: white;
@@ -48,4 +49,13 @@ body{
     font-weight: bold;
 
 
+}
+#msg{
+    color: azure;
+    font-size: 5vmin;
+    
+}
+
+.hide{
+    display: none;
 }
