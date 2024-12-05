@@ -34,10 +34,10 @@ boxes.forEach((box)=>{
 
     
         if(turn0){
-            box.innerText = "PURNOTA";
+            box.innerText = "😎";
             turn0 = false;
         }else{
-            box.innerText = "AKIB BRO";
+            box.innerText = "🙂";
             turn0 = true;
 
         }
